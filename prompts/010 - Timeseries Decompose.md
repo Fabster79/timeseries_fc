@@ -18,7 +18,7 @@ Hier ist meine Dataset über die Entwicklung der Zahl von US Flugpassagieren. Ma
 ChatGPT: 
 
 Das Dataset enthält zwei Spalten: "Month" (das Datum im Format Jahr-Monat) und "Passengers" (die Anzahl der Flugpassagiere). Ich werde die Zeitreihenanalyse (Decomposition) durchführen, um den Trend, die Saisonalität und die Residuen der Daten zu extrahieren. ​​Residual!
-![image info]([../images/010 - Timeseries Decompose - Image 010.png](https://raw.githubusercontent.com/Fabster79/timeseries_fc/refs/heads/main/images/010%20-%20Timeseries%20Decompose%20-%20Image%20010.png))
+![image info](https://raw.githubusercontent.com/Fabster79/timeseries_fc/refs/heads/main/images/010%20-%20Timeseries%20Decompose%20-%20Image%20010.png)
 
 Hier ist die Decomposition der Zeitreihe:
  
