@@ -17,7 +17,8 @@ Hier ist meine Dataset über die Entwicklung der Zahl von US Flugpassagieren. Ma
 
 ChatGPT: 
 
-Das Dataset enthält zwei Spalten: "Month" (das Datum im Format Jahr-Monat) und "Passengers" (die Anzahl der Flugpassagiere). Ich werde die Zeitreihenanalyse (Decomposition) durchführen, um den Trend, die Saisonalität und die Residuen der Daten zu extrahieren. ​​Residual![Bild ausgeben](https://files.oaiusercontent.com/file-FdZFmKckaZcXnF9orXsQLW?se=2025-01-22T13%3A40%3A09Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D299%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Deaff03dd-9219-4871-bb35-0631f146ef7d&sig=ZtdAda8BTW8mhdRFCXwy58Xx5T9SwCz2rcz4nOcIh1M%3D) 
+Das Dataset enthält zwei Spalten: "Month" (das Datum im Format Jahr-Monat) und "Passengers" (die Anzahl der Flugpassagiere). Ich werde die Zeitreihenanalyse (Decomposition) durchführen, um den Trend, die Saisonalität und die Residuen der Daten zu extrahieren. ​​Residual!
+![image info](images/010 - Timeseries Decompose - Image 010.png)
 
 Hier ist die Decomposition der Zeitreihe:
  
